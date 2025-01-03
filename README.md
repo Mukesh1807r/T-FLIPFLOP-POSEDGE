@@ -68,7 +68,8 @@ endmodule
 
 **OUTPUT**
 
-![image](https://github.com/user-attachments/assets/4970d2ca-08bd-4e75-b5cc-55311f0e0b8c)
+![image](https://github.com/user-attachments/assets/41012595-f1ad-4c86-9c36-9fd84413f37c)
+
 
 **RESULTS**
 
